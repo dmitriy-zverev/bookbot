@@ -13,7 +13,6 @@ def count_characters(book_contents):
     return char_dict
 
 def sort_on_num(items):
-    print(items["num"])
     return items["num"]
 
 def sort_char_dict(char_dict):
